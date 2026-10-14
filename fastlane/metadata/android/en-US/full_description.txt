@@ -1,0 +1,23 @@
+DailyAds.pk brings the advertisements printed in Pakistan's daily newspapers to your phone — organised, searchable and easy to read.
+
+Every day the jobs, tenders, admissions, public notices, property ads, court notices, auctions and results published in Dawn, Jang, Express, The News, Nawa-i-Waqt, Dunya, The Nation, The Express Tribune, Daily Aaj, Daily Mashriq, Daily Kawish and more are collected on dailyads.pk. Each advertisement shows the original newspaper clipping alongside a clear text version.
+
+<b>What you can do</b>
+<ul>
+<li>See today's edition: every ad from the latest papers, newest first</li>
+<li>Filter by type: Jobs, Tenders, Admissions, Notices, Property, Court Notices, Auctions, Results</li>
+<li>Never miss a deadline: "Closing soon" lists ads whose last date is near</li>
+<li>Search the archive by organisation, post, city or keyword</li>
+<li>Browse by newspaper or city</li>
+<li>Pinch to zoom into the original clipping</li>
+<li>Save ads on your phone and share them with any app</li>
+<li>Open the newspaper's own e-paper page for every ad</li>
+</ul>
+
+<b>Privacy</b>
+No account, no sign-up, no ads, no analytics and no tracking. Saved ads and recent searches stay on your device.
+
+<b>Important</b>
+DailyAds.pk is an independent, privately run archive. It is not affiliated with any government department, advertiser or newspaper, and applications are never submitted through the app — always follow the instructions in the original advertisement.
+
+The app reads its content from https://dailyads.pk.
