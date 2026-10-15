@@ -1,0 +1,1 @@
+Separate builds for each device type (32-bit ARM, 64-bit ARM, x86_64) for smaller downloads from F-Droid. No other changes.
